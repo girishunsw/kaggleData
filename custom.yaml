@@ -1,0 +1,8 @@
+train: /content/kaggledata/prep/train/
+test: /content/kaggledata/prep/test/
+val: /content/kaggledata/prep/val/
+#Classes
+nc: 1 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ['cotfish']
